@@ -58,7 +58,7 @@ public class Main {
                 System.out.println("Нет такого оператора!");
                 break;
         }
-
+        input.close();
 
     }
 }
